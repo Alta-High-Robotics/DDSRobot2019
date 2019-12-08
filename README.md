@@ -86,7 +86,7 @@ Git is recommended for the benefit of both version control and easy repository c
 ---
 ### Development
 ```text
-Developed by Jie "Jason" Liu (@Deepzai)
+Developed by Jie "Jason" Liu (@jiejasonliu)
 Good luck next year!
 
 Email me if you have any coding questions or if any confusion arises!
